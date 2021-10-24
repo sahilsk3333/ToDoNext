@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable-v24/ic_user.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable-v24/lock_icon.xml" value="0.259375" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable-v24/mail_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/back_icon.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/bg_button.xml" value="0.25" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/bg_edittext.xml" value="0.16993243243243245" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/ic_add.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/ic_arrow.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/ic_menu_bar.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/ic_menu_btn.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/ic_previesw.xml" value="0.1662162162162162" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/drawable/user_icon.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/activity_main.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/activity_splash.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/custom_dialog_layout.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/dialog_lottie.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/finished_task_item_holder.xml" value="0.1945945945945946" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/fragment_finished_task.xml" value="0.18" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/menu_header.xml" value="0.1451545530492899" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/layout/todo_list_item.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/menu/main_menu.xml" value="0.29324894514767935" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ToDoNext/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12905405405405404" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
